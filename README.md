@@ -12,7 +12,8 @@ The urban market has the majority of both drivers and total fares.  The suburban
 ![Driver Pct](Analysis/Fig7.png) ![Fare Pct](Analysis/Fig5.png)
 
 An analysis of the rides by city type shows the seasonality of the ridership does not vary significantly between the city types.  
+
 ![Line Trend](Analysis/Pyber_fare_summary.png)
 
 ## Summary
-Based on the relatively low driver count and high profitablity of the rural market it would be worth exploring an expansion into this area.  The urban market remains strong due to higher availablity of drivers.  
+Based on the relatively low driver count and high profitablity of the rural market it would be worth exploring an expansion into this area.  The urban and suburban markets remain strong due to higher availablity of drivers.  To increase total fares per driver, a tiered fare  or bonus structure could be introduced to reward higher performing drivers.  
